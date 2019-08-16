@@ -34,22 +34,20 @@ This tool is a Kali Linux based framework designed for the purposes of enumerati
 
   15) Upload Nmap CSV file to Elastic.
 
-  0) Exit Program
-  
-# Dependecies
+  0) Exit Program# Dependecies
 
   OS:
     1. Kali Linux
     
-  Linux packages:
+  Linux packages -
     Uses all preinstalled Kali tools.
   
-  Full Installations:
+  Full Installations - 
     1. ElasticSearch 
     2. Logstash
     3. Kibana
 
-  Python Packages:
+  Python Packages -
     1. paramiko
     2. pykeyboard
     2. netmiko
