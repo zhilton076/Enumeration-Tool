@@ -48,21 +48,25 @@ This tool is a Kali Linux based framework designed for the purposes of enumerati
   
 # Dependecies
 - OS:
-    1. Kali Linux
+
+      1. Kali Linux
     
  - Linux packages:
-    Uses all preinstalled Kali tools.
+ 
+       Uses all preinstalled Kali tools.
   
-Full Installations: 
-    1. ElasticSearch 
-    2. Logstash
-    3. Kibana
+- Full Installations: 
+
+      1. ElasticSearch 
+      2. Logstash
+      3. Kibana
 
  - Python Packages:
-    1. paramiko
-    2. pykeyboard
-    2. netmiko
-    3. getpass
-    4. re
-    5. nmap
-      
+ 
+          1. paramiko
+          2. pykeyboard
+          2. netmiko
+          3. getpass
+          4. re
+          5. nmap
+
