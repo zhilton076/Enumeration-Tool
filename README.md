@@ -37,7 +37,7 @@ This tool is a Kali Linux based framework designed for the purposes of enumerati
   0) Exit Program
   
   # Dependecies
-OS:
+- OS:
     1. Kali Linux
     
 Linux packages:
