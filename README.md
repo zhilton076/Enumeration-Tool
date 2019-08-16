@@ -14,7 +14,7 @@ This tool is a Kali Linux based framework designed for the purposes of enumerati
   4) Pull VLAN informaiton from switch + scan all VLANs.
 
   5) Screenshot all network hosts' running web services.
-    
+  
  Vulnerability Scanning:
   6) Scan server/domain for vulnerabilities.
 
