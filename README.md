@@ -2,6 +2,9 @@
 
 This tool is a Kali Linux based framework designed for the purposes of enumerating a given network for live hosts, open ports, and web services runnning. The tool also has other functions built in for enumeration, pentesting, file conversion, and database storage.
 
+# Important:
+      enumerate.sh is the starter program. Execute this file to run the Enumeration Tool. Place the Tool in the root folder of your directory. Install dependencies as provided below.
+      
 # Options:
 
 - Network Enumeration:
