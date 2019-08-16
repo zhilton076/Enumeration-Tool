@@ -5,41 +5,46 @@ This tool is a Kali Linux based framework designed for the purposes of enumerati
 # Options:
 
 - Network Enumeration:
-  1) Scan current subnet for hosts and services.
 
-  2) Scan current subnet hosts.
+      1) Scan current subnet for hosts and services.
 
-  3) DNS Zone Transfer on a target domain.
+      2) Scan current subnet hosts.
 
-  4) Pull VLAN informaiton from switch + scan all VLANs.
+      3) DNS Zone Transfer on a target domain.
 
-  5) Screenshot all network hosts' running web services.
+      4) Pull VLAN informaiton from switch + scan all VLANs.
+
+      5) Screenshot all network hosts' running web services.
   
 - Vulnerability Scanning:
-  6) Scan server/domain for vulnerabilities.
 
-  7) Scan target IP + port for ftp vulnerabilities.
+      6) Scan server/domain for vulnerabilities.
 
-  8) Scan web service/app for directories and filenames.
+      7) Scan target IP + port for ftp vulnerabilities.
 
-  9) Passive sniffing for interesting files.
-    
+      8) Scan web service/app for directories and filenames.
+
+      9) Passive sniffing for interesting files.
+
 - File Conversion:
-  10) Convert a file from XML to CSV.
 
-  11) Convert a file from TXT to CSV.
+      10) Convert a file from XML to CSV.
 
-  12) Convert a file from XML to HTML.
+      11) Convert a file from TXT to CSV.
+
+      12) Convert a file from XML to HTML.
 
 - Searching:
-  13) Quick search a CSV file.
+
+      13) Quick search a CSV file.
 
 - Database:
-  14) Start ElasticSearch and Kibana.
 
-  15) Upload Nmap CSV file to Elastic.
+      14) Start ElasticSearch and Kibana.
 
-  0) Exit Program
+      15) Upload Nmap CSV file to Elastic.
+
+      0) Exit Program
   
 # Dependecies
 - OS:
